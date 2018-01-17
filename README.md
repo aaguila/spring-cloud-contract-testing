@@ -3,10 +3,9 @@
 # Spring-cloud-contract-testing
 
 Spring cloud contract testing project
-[In progress]
 
 ### Blog post url
-[In progress]
+http://qajungle.com/consumer-driven-contract-testing-con-spring-cloud-contract/
 
 ### Generate contract tests
 ```sh
